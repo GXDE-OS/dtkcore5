@@ -1,0 +1,5 @@
+debian/tmp/usr/libexec/dtk5/DCore/bin/ch2py
+debian/tmp/usr/libexec/dtk5/DCore/bin/dci
+debian/tmp/usr/libexec/dtk5/DCore/bin/deepin-os-release
+debian/tmp/usr/libexec/dtk5/DCore/bin/dtk-settings
+debian/tmp/usr/libexec/dtk5/DCore/bin/qdbusxml2cpp-fix

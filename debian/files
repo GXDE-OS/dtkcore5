@@ -1,0 +1,7 @@
+dtkcore_5.6.22_amd64.buildinfo libdevel optional
+libdtkcore-dev_5.6.22_amd64.deb libdevel optional
+libdtkcore-doc_5.6.22_amd64.deb libdevel optional
+libdtkcore5-bin-dbgsym_5.6.22_amd64.deb debug optional automatic=yes
+libdtkcore5-bin_5.6.22_amd64.deb libdevel optional
+libdtkcore5-dbgsym_5.6.22_amd64.deb debug optional automatic=yes
+libdtkcore5_5.6.22_amd64.deb libdevel optional

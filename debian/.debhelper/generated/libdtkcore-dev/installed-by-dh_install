@@ -1,0 +1,15 @@
+debian/tmp/usr/lib/x86_64-linux-gnu/libdtkcore.so
+debian/tmp/usr/include
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/dtkcore.pc
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkCMake/DtkCMakeConfig.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkCore/DtkCoreConfig.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkCore/DtkCoreConfigVersion.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkCore/DtkCoreTargets-none.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkCore/DtkCoreTargets.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkDConfig/DtkDConfigConfig.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkTools/DtkDBusMacros.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkTools/DtkSettingsToolsMacros.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkTools/DtkToolsConfig.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkTools/DtkToolsTargets-none.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/cmake/DtkTools/DtkToolsTargets.cmake
+debian/tmp/usr/lib/x86_64-linux-gnu/qt5/mkspecs

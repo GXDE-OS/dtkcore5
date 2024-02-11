@@ -1,0 +1,12 @@
+Package: libdtkcore5-bin-dbgsym
+Source: dtkcore
+Version: 5.6.22
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2347
+Depends: libdtkcore5-bin (= 5.6.22)
+Section: debug
+Priority: optional
+Description: debug symbols for libdtkcore5-bin
+Build-Ids: 72fb24df9a7a2e7b8ad3b12602642765d33388b5 a83d1bd3b8e569b900e23c9aa406a6813d30bd1e b19cf194c1d73fddae9cced43732ef54a641754a b7b0752b87987e7e4774cee8e9efe2900433239d f4781e3f4a485789f14f5914ee568b65b0f85232

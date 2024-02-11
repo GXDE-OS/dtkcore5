@@ -1,0 +1,14 @@
+QT.dtkcore.VERSION = 5.6.22
+QT.dtkcore.MAJOR_VERSION = 5
+QT.dtkcore.MINOR_VERSION = 6
+QT.dtkcore.PATCH_VERSION = 22
+QT.dtkcore.name = dtkcore
+QT.dtkcore.module = dtkcore
+QT.dtkcore.tools = /usr/libexec/dtk5/DCore/bin
+QT.dtkcore.libs = /usr/lib/x86_64-linux-gnu
+QT.dtkcore.includes = /usr/include/dtk5/DCore
+QT.dtkcore.frameworks =
+QT.dtkcore.depends = core dbus xml
+QT.dtkcore.module_config = v2 ltcg
+QT.dtkcore.DEFINES += QT_MESSAGELOGCONTEXT
+QT_MODULES +=
