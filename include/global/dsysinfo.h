@@ -33,6 +33,8 @@ public:
         NixOS
     };
 
+    Q_ENUM(ProductType)
+
     enum DeepinType {
         UnknownDeepin = 0,
         DeepinDesktop,
@@ -60,6 +62,7 @@ public:
         UosDesktop,
         UosServer,
         UosDevice,
+        UosSmart,
 
         UosTypeCount // must at last
     };
